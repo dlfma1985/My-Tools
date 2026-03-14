@@ -8,9 +8,6 @@
       윈도우에서 키보드/마우스 작업을 녹화하고 원하는 횟수로 반복 실행할 수 있는 매크로 프로그램입니다.<br />
       아래 사용 방법을 순서대로 보시면 처음 사용하는 분도 바로 사용할 수 있습니다.
     </p>
-    <span class="wtl-badge">WinToolLab · 2026.03.14</span><div class="wtl-cta">
-      <a class="wtl-btn wtl-btn-primary" href="https://drive.google.com/file/d/16mSJ9iW1cLAI6JyJiwMHcUPr1o2Vtgmk/view?usp=drive_link" rel="noopener">⬇ MacroProgram.exe 다운로드</a>
-    </div>
   </section>
 
   <!--소개-->
